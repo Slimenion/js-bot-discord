@@ -1,7 +1,7 @@
 {
   "invite": "false",
   "prefix": "!",
-  "discord_owner_id": "482133849623756811",
-  "token": "NzczMTkxNDE1MzM2Nzk2MTYx.X6Fong.5HkZwPdiJg7EcrLIQqoHvmxzQMI",
-  "youtubeAPI": "AIzaSyBLClhUOCplvs-_S519FUz_filgwgigvus"
+  "discord_owner_id": "Your-id",
+  "token": "Your-bot-token",
+  "youtubeAPI": "Your-youtube-api"
 }
